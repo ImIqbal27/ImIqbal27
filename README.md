@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ImIqbal27?tab=repositories](https://github.com/ImIqbal27?tab=repositories)
 
-- 💬 Ask me about **ReactJS , NodeJS & MongoDB**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **iamhasan9501@gmail.com , 01834093014**
 
